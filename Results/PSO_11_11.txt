@@ -1,0 +1,15 @@
+Results for 3 neurons in the hidden layer
+Min of AbsErrorL1 = 2.573e-01
+Worst of AbsErrorL1 = 4.793e-01
+Mean of AbsErrorL1 = 3.910e-01 ± 6.362e-02
+
+Min of AbsErrorL2 = 3.963e-01
+Worst of AbsErrorL2 = 7.458e-01
+Mean of AbsErrorL2 = 5.486e-01 ± 9.379e-02
+
+Min of RelErrorInf = 1.885e-04
+Worst of RelErrorInf = 3.548e-04
+Mean of RelErrorInf = 2.610e-04 ± 4.462e-05
+
+Mean of Elapsed Time = 2.703e+01 ± 1.278e+00 seconds
+
