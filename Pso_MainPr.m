@@ -49,8 +49,8 @@ empty_sol.errorL1 = [];
 empty_sol.errorL2 = [];
 empty_sol.RelErrL2 = [];
 
-for Nx = [11,21,41,81]
-    for Nt = [11,21,41,81]
+for Nx = [11,21]
+    for Nt = [11,21]
         fprintf('N_x = %2d \t N_t = %2d\n',Nx,Nt);
         
         xval=linspace(xA,xB,Nx);                        % Spatial vector x
