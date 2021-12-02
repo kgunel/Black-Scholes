@@ -9,7 +9,7 @@ Developer: Korhan Gunel (Adnan Menderes University, Department of Mathematics)
 
 Contact Info: kgunel@adu.edu.tr
 
-This study has been accepted for publication in <b>Computatitonal Economics</b> (SCIE, 1.317 IF)
+This study has been accepted for publication in <b>Computatitonal Economics</b> (SCIE, 1.876 IF in 2020)
 It was published online first. You can access via Springer Nature SharedIt from the link: rdcu.be/caMp1. If used it, please cite as
 
-Eskiizmirliler, S., Günel, K. & Polat, R. On the Solution of the Black–Scholes Equation Using Feed-Forward Neural Networks. Comput Econ (2020). https://doi.org/10.1007/s10614-020-10070-w. The software is available on GitHub codebase: https://github.com/kgunel/Black-Scholes.
+Eskiizmirliler, S., Günel, K. & Polat, R. On the Solution of the Black–Scholes Equation Using Feed-Forward Neural Networks. Comput Econ, 58, pages 915–941 (2021). https://doi.org/10.1007/s10614-020-10070-w. The software is available on GitHub codebase: https://github.com/kgunel/Black-Scholes.
